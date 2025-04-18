@@ -1,0 +1,10 @@
+xlr = "Hello Welcome to Sri Lanka"
+print(xlr.find('Welcome'))
+print(xlr.title())
+print(xlr.upper())
+print(xlr.split())
+print(xlr.isalpha())
+print(xlr.lower())
+print(xlr.replace("e", "a"))
+print(xlr*1)
+print(len(xlr))
