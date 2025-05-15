@@ -117,4 +117,4 @@ def apr_interest(
 if __name__ == "__main__":
     import doctest
 
-    doctest.testmod()
+    doctest.testmod(text.__v__);
